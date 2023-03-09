@@ -1,0 +1,332 @@
+[
+    {
+        "#": "1",
+        "Website": "Google Drive",
+        "Free Storage (GB)": "15",
+        "Country": "United States",
+        "Pricing": "Starting at $1.99/month for 100 GB",
+        "Link": "https://www.google.com/drive/"
+    },
+    {
+        "#": "2",
+        "Website": "Dropbox",
+        "Free Storage (GB)": "2",
+        "Country": "United States",
+        "Pricing": "Starting at $9.99/month for 2 TB",
+        "Link": "https://www.dropbox.com/"
+    },
+    {
+        "#": "3",
+        "Website": "OneDrive",
+        "Free Storage (GB)": "5",
+        "Country": "United States",
+        "Pricing": "Starting at $1.99/month for 100 GB",
+        "Link": "https://www.onedrive.com/"
+    },
+    {
+        "#": "4",
+        "Website": "Box",
+        "Free Storage (GB)": "10",
+        "Country": "United States",
+        "Pricing": "Starting at $5/month for 100 GB",
+        "Link": "https://www.box.com/"
+    },
+    {
+        "#": "5",
+        "Website": "Mega",
+        "Free Storage (GB)": "50",
+        "Country": "New Zealand",
+        "Pricing": "Starting at €4.99/month for 400 GB",
+        "Link": "https://mega.nz/"
+    },
+    {
+        "#": "6",
+        "Website": "pCloud",
+        "Free Storage (GB)": "10",
+        "Country": "Switzerland",
+        "Pricing": "Starting at €3.99/month for 500 GB",
+        "Link": "https://www.pcloud.com/"
+    },
+    {
+        "#": "7",
+        "Website": "MediaFire",
+        "Free Storage (GB)": "10",
+        "Country": "United States",
+        "Pricing": "Starting at $3.75/month for 1 TB",
+        "Link": "https://www.mediafire.com/"
+    },
+    {
+        "#": "8",
+        "Website": "Sync.com",
+        "Free Storage (GB)": "5",
+        "Country": "Canada",
+        "Pricing": "Starting at $8/month for 2 TB",
+        "Link": "https://www.sync.com/"
+    },
+    {
+        "#": "9",
+        "Website": "Jumpshare",
+        "Free Storage (GB)": "2",
+        "Country": "United States",
+        "Pricing": "Starting at $9.99/month for 1 TB",
+        "Link": "https://jumpshare.com/"
+    },
+    {
+        "#": "10",
+        "Website": "Amazon Drive",
+        "Free Storage (GB)": "5",
+        "Country": "United States",
+        "Pricing": "Starting at $1.99/month for 100 GB",
+        "Link": "https://www.amazon.com/clouddrive"
+    },
+    {
+        "#": "11",
+        "Website": "Syncplicity",
+        "Free Storage (GB)": "10",
+        "Country": "United States",
+        "Pricing": "Starting at $5/month for 300 GB",
+        "Link": "https://www.syncplicity.com/"
+    },
+    {
+        "#": "12",
+        "Website": "Nextcloud",
+        "Free Storage (GB)": "N/A",
+        "Country": "Germany",
+        "Pricing": "Self-hosted",
+        "Link": "https://nextcloud.com/"
+    },
+    {
+        "#": "13",
+        "Website": "SpiderOak",
+        "Free Storage (GB)": "21",
+        "Country": "United States",
+        "Pricing": "Starting at $6/month for 150 GB",
+        "Link": "https://spideroak.com/"
+    },
+    {
+        "#": "14",
+        "Website": "Tresorit",
+        "Free Storage (GB)": "3",
+        "Country": "Switzerland",
+        "Pricing": "Starting at €10.42/month for 500 GB",
+        "Link": "https://tresorit.com/"
+    },
+    {
+        "#": "15",
+        "Website": "Yandex Disk",
+        "Free Storage (GB)": "10",
+        "Country": "Russia",
+        "Pricing": "Starting at $2/month for 20 GB",
+        "Link": "https://disk.yandex.com/"
+    },
+    {
+        "#": "16",
+        "Website": "FileFactory",
+        "Free Storage (GB)": "N/A",
+        "Country": "United States",
+        "Pricing": "Starting at $6.99/month for 500 GB",
+        "Link": "https://www.filefactory.com/"
+    },
+    {
+        "#": "17",
+        "Website": "Zippyshare",
+        "Free Storage (GB)": "N/A",
+        "Country": "N/A",
+        "Pricing": "Free",
+        "Link": "https://www.zippyshare.com/"
+    },
+    {
+        "#": "18",
+        "Website": "Dropbox",
+        "Free Storage (GB)": "2",
+        "Country": "United States",
+        "Pricing": "Starting at $11.99/month for 2 TB",
+        "Link": "https://www.dropbox.com/"
+    },
+    {
+        "#": "19",
+        "Website": "Google Drive",
+        "Free Storage (GB)": "15",
+        "Country": "United States",
+        "Pricing": "Starting at $1.99/month for 100 GB",
+        "Link": "https://www.google.com/drive/"
+    },
+    {
+        "#": "20",
+        "Website": "WeTransfer",
+        "Free Storage (GB)": "2",
+        "Country": "Netherlands",
+        "Pricing": "Starting at $12/month for 100 GB",
+        "Link": "https://wetransfer.com/"
+    },
+    {
+        "#": "21",
+        "Website": "Syncplicity",
+        "Free Storage (GB)": "10",
+        "Country": "United States",
+        "Pricing": "Starting at $5/month for 300 GB",
+        "Link": "https://www.syncplicity.com/"
+    },
+    {
+        "#": "22",
+        "Website": "FileDropper",
+        "Free Storage (GB)": "5",
+        "Country": "United States",
+        "Pricing": "Free",
+        "Link": "https://www.filedropper.com/"
+    },
+    {
+        "#": "23",
+        "Website": "SendSpace",
+        "Free Storage (GB)": "N/A",
+        "Country": "United States",
+        "Pricing": "Starting at $7.99/month for 1 TB",
+        "Link": "https://www.sendspace.com/"
+    },
+    {
+        "#": "24",
+        "Website": "FileServe",
+        "Free Storage (GB)": "N/A",
+        "Country": "United States",
+        "Pricing": "Starting at $9.99/month for 500 GB",
+        "Link": "https://www.fileserve.com/"
+    }
+    {
+        "#": "25",
+        "Website": "Filestack",
+        "Free Storage (GB)": "N/A",
+        "Country": "United States",
+        "Pricing": "Starting at $49/month for 250 GB",
+        "Link": "https://www.filestack.com/"
+    },
+    {
+        "#": "26",
+        "Website": "Filecamp",
+        "Free Storage (GB)": "1",
+        "Country": "Denmark",
+        "Pricing": "Starting at $29/month for 100 GB",
+        "Link": "https://filecamp.com/"
+    },
+    {
+        "#": "27",
+        "Website": "pCloud",
+        "Free Storage (GB)": "10",
+        "Country": "Switzerland",
+        "Pricing": "Starting at $4.99/month for 500 GB",
+        "Link": "https://www.pcloud.com/"
+    },
+    {
+        "#": "28",
+        "Website": "Degoo",
+        "Free Storage (GB)": "100",
+        "Country": "Sweden",
+        "Pricing": "Starting at $3.99/month for 500 GB",
+        "Link": "https://degoo.com/"
+    },
+    {
+        "#": "29",
+        "Website": "iCloud",
+        "Free Storage (GB)": "5",
+        "Country": "United States",
+        "Pricing": "Starting at $0.99/month for 50 GB",
+        "Link": "https://www.icloud.com/"
+    }
+
+
+{
+    "#": "30",
+    "Website": "Syncplicity",
+    "Free Storage (GB)": "10",
+    "Country": "United States",
+    "Pricing": "Starting at $5/month for 100 GB",
+    "Link": "https://www.syncplicity.com/"
+},
+{
+    "#": "31",
+    "Website": "Sync.com",
+    "Free Storage (GB)": "5",
+    "Country": "Canada",
+    "Pricing": "Starting at $8/month for 2 TB",
+    "Link": "https://www.sync.com/"
+},
+{
+    "#": "32",
+    "Website": "Box",
+    "Free Storage (GB)": "10",
+    "Country": "United States",
+    "Pricing": "Starting at $7/month for 100 GB",
+    "Link": "https://www.box.com/"
+},
+{
+    "#": "33",
+    "Website": "WeTransfer",
+    "Free Storage (GB)": "2",
+    "Country": "Netherlands",
+    "Pricing": "Starting at €12/month for 1 TB",
+    "Link": "https://wetransfer.com/"
+},
+{
+    "#": "34",
+    "Website": "FlipDrive",
+    "Free Storage (GB)": "10",
+    "Country": "United States",
+    "Pricing": "Starting at $5/month for 25 GB",
+    "Link": "https://www.flipdrive.com/"
+},
+{
+    "#": "35",
+    "Website": "MediaFire",
+    "Free Storage (GB)": "10",
+    "Country": "United States",
+    "Pricing": "Starting at $3.75/month for 1 TB",
+    "Link": "https://www.mediafire.com/"
+},
+{
+    "#": "36",
+    "Website": "Dropbox",
+    "Free Storage (GB)": "2",
+    "Country": "United States",
+    "Pricing": "Starting at $9.99/month for 2 TB",
+    "Link": "https://www.dropbox.com/"
+},
+{
+    "#": "37",
+    "Website": "Sync.com",
+    "Free Storage (GB)": "5",
+    "Country": "Canada",
+    "Pricing": "Starting at $8/month for 2 TB",
+    "Link": "https://www.sync.com/"
+},
+{
+    "#": "38",
+    "Website": "SpiderOak",
+    "Free Storage (GB)": "N/A",
+    "Country": "United States",
+    "Pricing": "Starting at $6/month for 150 GB",
+    "Link": "https://spideroak.com/"
+},
+{
+    "#": "39",
+    "Website": "4shared",
+    "Free Storage (GB)": "15",
+    "Country": "United States",
+    "Pricing": "Starting at $9.95/month for 1 TB",
+    "Link": "https://www.4shared.com/"
+},
+{
+    "#": "40",
+    "Website": "Jumpshare",
+    "Free Storage (GB)": "2",
+    "Country": "United States",
+    "Pricing": "Starting at $9.99/month for 1 TB",
+    "Link": "https://jumpshare.com/"
+},
+{
+    "#": "41",
+    "Website": "Koofr",
+    "Free Storage (GB)": "2",
+    "Country": "Slovenia",
+    "Pricing": "Starting at €5/month for 250 GB",
+    "Link": "https://koofr.eu/"
+}
+]
